@@ -1,6 +1,6 @@
 import Joi from "joi";
 import bcrypt from "bcrypt";
-import User from "../model/user.js"
+import User from "./user.js"
 
 const signupController = async (req, res) => {
 

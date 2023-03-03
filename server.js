@@ -4,7 +4,7 @@ import cors from "cors"
 import bodyParser from "body-parser"
 import mongoose from "mongoose"
 
-import allroutes from "./routes/allroutes.js"
+import allroutes from "./allroutes.js"
 
 mongoose.set('strictQuery', false);
 

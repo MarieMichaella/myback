@@ -1,7 +1,7 @@
 
 import Joi from "joi";
 import express from "express";
-import messageController from "../controllers/messageController.js";
+import messageController from "./messageController.js";
 
 const router = express.Router();
 

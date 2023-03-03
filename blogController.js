@@ -1,5 +1,5 @@
 
-import Blog from "../model/blog1.js"
+import Blog from "./blog1.js"
 
 
 

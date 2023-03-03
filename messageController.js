@@ -1,4 +1,4 @@
-import Message from "../model/message.js";
+import Message from "./message.js";
 
 class messageController {
   static async SendMessage(req, res) {

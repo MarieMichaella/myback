@@ -1,6 +1,6 @@
 import express from "express";
-import blogController from "../controllers/blogController.js";
-import restrictDelete from "../middleware/restrictDelete.js";
+import blogController from "./blogController.js";
+import restrictDelete from "./restrictDelete.js";
 import multer from "multer";
 import Joi from "joi"
 
