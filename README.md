@@ -1,0 +1,1 @@
+CORS = Cross-origin Resource sharing
